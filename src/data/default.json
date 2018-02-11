@@ -1,0 +1,4817 @@
+[{
+  "battletag": "DazBolaim-2225",
+  "platform": "pc",
+  "region": "eu",
+  "modifiedOn": 1517869163028,
+  "stats": {
+    "username": "DazBolaim",
+    "level": 755,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x02500000000015A1.png",
+    "stats": {
+      "top_heroes": {
+        "quickplay": [{
+          "hero": "Zenyatta",
+          "played": "74 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Mercy",
+          "played": "69 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "D.Va",
+          "played": "62 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "49 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "40 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "40 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Pharah",
+          "played": "31 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Orisa",
+          "played": "23 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "18 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "Winston",
+          "played": "16 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Ana",
+          "played": "14 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "11 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "Bastion",
+          "played": "10 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "10 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "7 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Genji",
+          "played": "4 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Sombra",
+          "played": "4 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "McCree",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Tracer",
+          "played": "36 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Zarya",
+          "played": "32 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Moira",
+          "played": "30 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "25 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Mei",
+          "played": "24 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Reaper",
+          "played": "21 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "1 minute",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }],
+        "competitive": [{
+          "hero": "Mercy",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Orisa",
+          "played": "54 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "D.Va",
+          "played": "53 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "43 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "13 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "10 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "7 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "5 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "2 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "2 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "Reaper",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Tracer",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Pharah",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Winston",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Bastion",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Genji",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "McCree",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Zarya",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Mei",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Sombra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }, {
+          "hero": "Ana",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Moira",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }]
+      },
+      "combat": {
+        "quickplay": [{
+          "title": "Barrier Damage Done",
+          "value": "1,834,510"
+        }, {
+          "title": "Melee Final Blows",
+          "value": "349"
+        }, {
+          "title": "Deaths",
+          "value": "23,462"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "4,149,960"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "28:31:31"
+        }, {
+          "title": "Solo Kills",
+          "value": "4,874"
+        }, {
+          "title": "Objective Time",
+          "value": "41:35:44"
+        }, {
+          "title": "Objective Kills",
+          "value": "15,300"
+        }, {
+          "title": "Final Blows",
+          "value": "17,952"
+        }, {
+          "title": "Eliminations",
+          "value": "39,902"
+        }, {
+          "title": "All Damage Done",
+          "value": "17,300,465"
+        }, {
+          "title": "Environmental Kills",
+          "value": "245"
+        }, {
+          "title": "Multikills",
+          "value": "191"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done",
+          "value": "91,988"
+        }, {
+          "title": "Melee Final Blows",
+          "value": "2"
+        }, {
+          "title": "Deaths",
+          "value": "243"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "130,521"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "30:23"
+        }, {
+          "title": "Solo Kills",
+          "value": "28"
+        }, {
+          "title": "Objective Time",
+          "value": "45:08"
+        }, {
+          "title": "Objective Kills",
+          "value": "216"
+        }, {
+          "title": "Final Blows",
+          "value": "160"
+        }, {
+          "title": "Eliminations",
+          "value": "404"
+        }, {
+          "title": "All Damage Done",
+          "value": "225,128"
+        }, {
+          "title": "Environmental Kills",
+          "value": "2"
+        }, {
+          "title": "Multikills",
+          "value": "5"
+        }]
+      },
+      "match_awards": {
+        "quickplay": [{
+          "title": "Cards",
+          "value": "1,757"
+        }, {
+          "title": "Medals",
+          "value": "9,393"
+        }, {
+          "title": "Medals - Gold",
+          "value": "3,651"
+        }, {
+          "title": "Medals - Silver",
+          "value": "3,057"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "2,684"
+        }],
+        "competitive": [{
+          "title": "Cards",
+          "value": "12"
+        }, {
+          "title": "Medals",
+          "value": "62"
+        }, {
+          "title": "Medals - Gold",
+          "value": "22"
+        }, {
+          "title": "Medals - Silver",
+          "value": "24"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "16"
+        }]
+      },
+      "assists": {
+        "quickplay": [{
+          "title": "Healing Done",
+          "value": "7,459,632"
+        }, {
+          "title": "Recon Assists",
+          "value": "14"
+        }, {
+          "title": "Teleporter Pads Destroyed",
+          "value": "26"
+        }, {
+          "title": "Offensive Assists",
+          "value": "11,457"
+        }, {
+          "title": "Defensive Assists",
+          "value": "13,875"
+        }],
+        "competitive": [{
+          "title": "Healing Done",
+          "value": "174,772"
+        }, {
+          "title": "Offensive Assists",
+          "value": "329"
+        }, {
+          "title": "Defensive Assists",
+          "value": "366"
+        }]
+      },
+      "average": {
+        "quickplay": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "1"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "7"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "4"
+        }, {
+          "title": "Final Blows - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "10"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "4"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "6"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "8"
+        }, {
+          "title": "Final Blows - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "11"
+        }]
+      },
+      "miscellaneous": {
+        "quickplay": [{
+          "title": "Shield Generators Destroyed",
+          "value": "9"
+        }, {
+          "title": "Turrets Destroyed",
+          "value": "2,285"
+        }],
+        "competitive": [{
+          "title": "Turrets Destroyed",
+          "value": "5"
+        }]
+      },
+      "best": {
+        "quickplay": [{
+          "title": "Eliminations - Most in Game",
+          "value": "42"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "25"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "19,072"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "15,986"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "37"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "31"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "30"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "04:43"
+        }, {
+          "title": "Multikill - Best",
+          "value": "5"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "25"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "10:12"
+        }, {
+          "title": "Melee Final Blows - Most in Game",
+          "value": "5"
+        }, {
+          "title": "Shield Generator Destroyed - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Turrets Destroyed - Most in Game",
+          "value": "18"
+        }, {
+          "title": "Environmental Kills - Most in Game",
+          "value": "3"
+        }, {
+          "title": "Teleporter Pad Destroyed - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "42"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "12,405"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "11,665"
+        }, {
+          "title": "Recon Assists - Most in Game",
+          "value": "10"
+        }],
+        "competitive": [{
+          "title": "Eliminations - Most in Game",
+          "value": "44"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "21"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "24,500"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "17,901"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "44"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "27"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "23"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "05:45"
+        }, {
+          "title": "Multikill - Best",
+          "value": "3"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "21"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "06:11"
+        }, {
+          "title": "Melee Final Blow - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Turrets Destroyed - Most in Game",
+          "value": "5"
+        }, {
+          "title": "Environmental Kills - Most in Game",
+          "value": "2"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "44"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "14,159"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "13,150"
+        }]
+      },
+      "game": {
+        "quickplay": [{
+          "title": "Time Played",
+          "value": "498 hours"
+        }, {
+          "title": "Games Won",
+          "value": "2,009"
+        }],
+        "competitive": [{
+          "title": "Time Played",
+          "value": "5 hours"
+        }, {
+          "title": "Games Played",
+          "value": "28"
+        }, {
+          "title": "Games Won",
+          "value": "16"
+        }, {
+          "title": "Games Tied",
+          "value": "2"
+        }, {
+          "title": "Games Lost",
+          "value": "10"
+        }]
+      }
+    }
+  },
+  "profile": {
+    "username": "DazBolaim",
+    "level": 755,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x02500000000015A1.png",
+    "games": {
+      "quickplay": {
+        "won": 2009
+      },
+      "competitive": {
+        "won": 16,
+        "lost": null,
+        "draw": 2,
+        "played": 28
+      }
+    },
+    "playtime": {
+      "quickplay": "498 hours",
+      "competitive": "5 hours"
+    },
+    "competitive": {
+      "rank": 2617,
+      "rank_img": "https://d1u1mce87gyfbn.cloudfront.net/game/rank-icons/season-2/rank-4.png"
+    },
+    "levelFrame": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x025000000000096B_Border.",
+    "star": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x025000000000096B_Rank."
+  }
+}, {
+  "battletag": "Lathie-2799",
+  "platform": "pc",
+  "region": "eu",
+  "modifiedOn": 1517869160305,
+  "stats": {
+    "username": "Lathie",
+    "level": 834,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x02500000000008C3.png",
+    "stats": {
+      "top_heroes": {
+        "quickplay": [{
+          "hero": "McCree",
+          "played": "74 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Ana",
+          "played": "66 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Pharah",
+          "played": "52 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "51 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "28 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "28 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "19 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "Zarya",
+          "played": "14 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Mei",
+          "played": "14 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "10 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Genji",
+          "played": "10 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "D.Va",
+          "played": "8 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Mercy",
+          "played": "7 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Reaper",
+          "played": "7 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Tracer",
+          "played": "7 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Winston",
+          "played": "7 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "7 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "6 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "Moira",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Orisa",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Bastion",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "28 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Sombra",
+          "played": "1 minute",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }],
+        "competitive": [{
+          "hero": "McCree",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Moira",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "39 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Pharah",
+          "played": "20 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Zarya",
+          "played": "9 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Ana",
+          "played": "9 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "8 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Orisa",
+          "played": "1 minute",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Reaper",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Tracer",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Mercy",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Winston",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Bastion",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Genji",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "D.Va",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Mei",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Sombra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }]
+      },
+      "combat": {
+        "quickplay": [{
+          "title": "Barrier Damage Done",
+          "value": "479,566"
+        }, {
+          "title": "Melee Final Blows",
+          "value": "243"
+        }, {
+          "title": "Deaths",
+          "value": "20,089"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "2,166,451"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "48:49:07"
+        }, {
+          "title": "Solo Kills",
+          "value": "8,022"
+        }, {
+          "title": "Objective Time",
+          "value": "29:48:16"
+        }, {
+          "title": "Objective Kills",
+          "value": "15,137"
+        }, {
+          "title": "Final Blows",
+          "value": "24,864"
+        }, {
+          "title": "Eliminations",
+          "value": "45,454"
+        }, {
+          "title": "All Damage Done",
+          "value": "17,984,840"
+        }, {
+          "title": "Environmental Kills",
+          "value": "199"
+        }, {
+          "title": "Multikills",
+          "value": "304"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done",
+          "value": "84,706"
+        }, {
+          "title": "Melee Final Blows",
+          "value": "2"
+        }, {
+          "title": "Deaths",
+          "value": "291"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "228,412"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "33:46"
+        }, {
+          "title": "Solo Kills",
+          "value": "36"
+        }, {
+          "title": "Objective Time",
+          "value": "39:40"
+        }, {
+          "title": "Objective Kills",
+          "value": "307"
+        }, {
+          "title": "Final Blows",
+          "value": "319"
+        }, {
+          "title": "Eliminations",
+          "value": "696"
+        }, {
+          "title": "All Damage Done",
+          "value": "316,757"
+        }, {
+          "title": "Environmental Kills",
+          "value": "3"
+        }, {
+          "title": "Multikills",
+          "value": "5"
+        }]
+      },
+      "match_awards": {
+        "quickplay": [{
+          "title": "Cards",
+          "value": "1,100"
+        }, {
+          "title": "Medals",
+          "value": "8,925"
+        }, {
+          "title": "Medals - Gold",
+          "value": "3,396"
+        }, {
+          "title": "Medals - Silver",
+          "value": "3,048"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "2,481"
+        }],
+        "competitive": [{
+          "title": "Cards",
+          "value": "7"
+        }, {
+          "title": "Medals",
+          "value": "89"
+        }, {
+          "title": "Medals - Gold",
+          "value": "31"
+        }, {
+          "title": "Medals - Silver",
+          "value": "28"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "30"
+        }]
+      },
+      "assists": {
+        "quickplay": [{
+          "title": "Healing Done",
+          "value": "5,191,910"
+        }, {
+          "title": "Recon Assists",
+          "value": "24"
+        }, {
+          "title": "Teleporter Pads Destroyed",
+          "value": "23"
+        }, {
+          "title": "Offensive Assists",
+          "value": "3,755"
+        }, {
+          "title": "Defensive Assists",
+          "value": "5,905"
+        }],
+        "competitive": [{
+          "title": "Healing Done",
+          "value": "167,445"
+        }, {
+          "title": "Offensive Assists",
+          "value": "22"
+        }, {
+          "title": "Defensive Assists",
+          "value": "239"
+        }]
+      },
+      "average": {
+        "quickplay": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "10"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "3"
+        }, {
+          "title": "Final {count, plural, one {Blow} other {Blows}} - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "11"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "4"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "10"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "7"
+        }, {
+          "title": "Final {count, plural, one {Blow} other {Blows}} - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "14"
+        }]
+      },
+      "miscellaneous": {
+        "quickplay": [{
+          "title": "Shield Generators Destroyed",
+          "value": "4"
+        }, {
+          "title": "Turrets Destroyed",
+          "value": "2,218"
+        }],
+        "competitive": [{
+          "title": "Turret Destroyed",
+          "value": "1"
+        }]
+      },
+      "best": {
+        "quickplay": [{
+          "title": "Eliminations - Most in Game",
+          "value": "45"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "30"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "23,151"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "16,453"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "31"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "35"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "30"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "05:10"
+        }, {
+          "title": "Multikill - Best",
+          "value": "5"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "30"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "12:00"
+        }, {
+          "title": "Melee Final Blows - Most in Game",
+          "value": "5"
+        }, {
+          "title": "Shield Generator Destroyed - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Turrets Destroyed - Most in Game",
+          "value": "17"
+        }, {
+          "title": "Environmental Kills - Most in Game",
+          "value": "2"
+        }, {
+          "title": "Teleporter Pad Destroyed - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "45"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "15,260"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "6,324"
+        }, {
+          "title": "Recon Assists - Most in Game",
+          "value": "18"
+        }],
+        "competitive": [{
+          "title": "Eliminations - Most in Game",
+          "value": "44"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "28"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "24,488"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "21,695"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "36"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "12"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "25"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "03:48"
+        }, {
+          "title": "Multikill - Best",
+          "value": "3"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "28"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "06:49"
+        }, {
+          "title": "Melee Final Blow - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Environmental Kill - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "44"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "16,014"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "8,931"
+        }, {
+          "title": "Turret Destroyed - Most in Game",
+          "value": "1"
+        }]
+      },
+      "game": {
+        "quickplay": [{
+          "title": "Time Played",
+          "value": "435 hours"
+        }, {
+          "title": "Games Won",
+          "value": "1,734"
+        }],
+        "competitive": [{
+          "title": "Time Played",
+          "value": "6 hours"
+        }, {
+          "title": "Games Played",
+          "value": "31"
+        }, {
+          "title": "Games Won",
+          "value": "13"
+        }, {
+          "title": "{count, plural, one {Game} other {Games}} Lost",
+          "value": "18"
+        }]
+      }
+    }
+  },
+  "profile": {
+    "username": "Lathie",
+    "level": 834,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x02500000000008C3.png",
+    "games": {
+      "quickplay": {
+        "won": 1734
+      },
+      "competitive": {
+        "won": 13,
+        "lost": null,
+        "draw": 0,
+        "played": 31
+      }
+    },
+    "playtime": {
+      "quickplay": "435 hours",
+      "competitive": "6 hours"
+    },
+    "competitive": {
+      "rank": 2522,
+      "rank_img": "https://d1u1mce87gyfbn.cloudfront.net/game/rank-icons/season-2/rank-4.png"
+    },
+    "levelFrame": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x0250000000000971_Border.",
+    "star": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x0250000000000971_Rank."
+  }
+}, {
+  "battletag": "Merychipus-2341",
+  "platform": "pc",
+  "region": "eu",
+  "modifiedOn": 1517869161263,
+  "stats": {
+    "username": "Merychipus",
+    "level": 538,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x02500000000002F7.png",
+    "stats": {
+      "top_heroes": {
+        "quickplay": [{
+          "hero": "Mercy",
+          "played": "42 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "42 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "Ana",
+          "played": "29 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "29 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "21 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "D.Va",
+          "played": "17 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Zarya",
+          "played": "17 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "15 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Winston",
+          "played": "14 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "11 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "11 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "McCree",
+          "played": "10 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Moira",
+          "played": "8 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }, {
+          "hero": "Tracer",
+          "played": "6 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Pharah",
+          "played": "6 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "6 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Orisa",
+          "played": "6 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Reaper",
+          "played": "5 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Mei",
+          "played": "5 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "5 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Genji",
+          "played": "4 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Bastion",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "54 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }, {
+          "hero": "Sombra",
+          "played": "54 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }],
+        "competitive": [{
+          "hero": "Lúcio",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "Moira",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }, {
+          "hero": "Mercy",
+          "played": "54 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "28 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "19 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Ana",
+          "played": "18 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "13 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Tracer",
+          "played": "12 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Orisa",
+          "played": "5 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "4 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "D.Va",
+          "played": "4 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Winston",
+          "played": "3 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "McCree",
+          "played": "1 minute",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Pharah",
+          "played": "1 minute",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Zarya",
+          "played": "57 seconds",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Genji",
+          "played": "51 seconds",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Reaper",
+          "played": "7 seconds",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Bastion",
+          "played": "3 seconds",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Mei",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Sombra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }]
+      },
+      "combat": {
+        "quickplay": [{
+          "title": "Barrier Damage Done",
+          "value": "814,944"
+        }, {
+          "title": "Melee Final Blows",
+          "value": "400"
+        }, {
+          "title": "Deaths",
+          "value": "15,093"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "2,183,090"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "31:26:02"
+        }, {
+          "title": "Solo Kills",
+          "value": "2,872"
+        }, {
+          "title": "Objective Time",
+          "value": "31:12:29"
+        }, {
+          "title": "Objective Kills",
+          "value": "11,572"
+        }, {
+          "title": "Final Blows",
+          "value": "12,064"
+        }, {
+          "title": "Eliminations",
+          "value": "27,249"
+        }, {
+          "title": "All Damage Done",
+          "value": "10,569,406"
+        }, {
+          "title": "Environmental Kills",
+          "value": "315"
+        }, {
+          "title": "Multikills",
+          "value": "165"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done",
+          "value": "54,212"
+        }, {
+          "title": "Melee Final Blows",
+          "value": "4"
+        }, {
+          "title": "Deaths",
+          "value": "230"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "110,215"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "17:50"
+        }, {
+          "title": "Solo Kills",
+          "value": "5"
+        }, {
+          "title": "Objective Time",
+          "value": "45:20"
+        }, {
+          "title": "Objective Kills",
+          "value": "221"
+        }, {
+          "title": "Final Blows",
+          "value": "111"
+        }, {
+          "title": "Eliminations",
+          "value": "405"
+        }, {
+          "title": "All Damage Done",
+          "value": "167,511"
+        }, {
+          "title": "Environmental Kills",
+          "value": "4"
+        }]
+      },
+      "match_awards": {
+        "quickplay": [{
+          "title": "Cards",
+          "value": "1,103"
+        }, {
+          "title": "Medals",
+          "value": "6,933"
+        }, {
+          "title": "Medals - Gold",
+          "value": "2,882"
+        }, {
+          "title": "Medals - Silver",
+          "value": "2,197"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "1,854"
+        }],
+        "competitive": [{
+          "title": "Cards",
+          "value": "5"
+        }, {
+          "title": "Medals",
+          "value": "63"
+        }, {
+          "title": "Medals - Gold",
+          "value": "16"
+        }, {
+          "title": "Medals - Silver",
+          "value": "30"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "17"
+        }]
+      },
+      "assists": {
+        "quickplay": [{
+          "title": "Healing Done",
+          "value": "6,704,000"
+        }, {
+          "title": "Recon Assists",
+          "value": "15"
+        }, {
+          "title": "Teleporter Pads Destroyed",
+          "value": "42"
+        }, {
+          "title": "Offensive Assists",
+          "value": "4,858"
+        }, {
+          "title": "Defensive Assists",
+          "value": "8,659"
+        }],
+        "competitive": [{
+          "title": "Healing Done",
+          "value": "207,271"
+        }, {
+          "title": "Offensive Assists",
+          "value": "157"
+        }, {
+          "title": "Defensive Assists",
+          "value": "352"
+        }]
+      },
+      "average": {
+        "quickplay": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "1"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "6"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "6"
+        }, {
+          "title": "Final Blows - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "9"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "3"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "6"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "12"
+        }, {
+          "title": "Final Blows - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "9"
+        }]
+      },
+      "miscellaneous": {
+        "quickplay": [{
+          "title": "Shield Generators Destroyed",
+          "value": "12"
+        }, {
+          "title": "Turrets Destroyed",
+          "value": "1,465"
+        }],
+        "competitive": [{
+          "title": "Turrets Destroyed",
+          "value": "5"
+        }]
+      },
+      "best": {
+        "quickplay": [{
+          "title": "Eliminations - Most in Game",
+          "value": "42"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "25"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "34,508"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "16,774"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "39"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "21"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "32"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "04:25"
+        }, {
+          "title": "Multikill - Best",
+          "value": "5"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "25"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "13:31"
+        }, {
+          "title": "Melee Final Blows - Most in Game",
+          "value": "5"
+        }, {
+          "title": "Shield Generators Destroyed - Most in Game",
+          "value": "2"
+        }, {
+          "title": "Turrets Destroyed - Most in Game",
+          "value": "16"
+        }, {
+          "title": "Environmental Kills - Most in Game",
+          "value": "6"
+        }, {
+          "title": "Teleporter Pads Destroyed - Most in Game",
+          "value": "3"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "42"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "10,053"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "9,321"
+        }, {
+          "title": "Recon Assists - Most in Game",
+          "value": "8"
+        }],
+        "competitive": [{
+          "title": "Eliminations - Most in Game",
+          "value": "44"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "11"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "16,916"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "17,849"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "30"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "23"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "31"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "06:03"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "11"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "04:00"
+        }, {
+          "title": "Melee Final Blow - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Turrets Destroyed - Most in Game",
+          "value": "2"
+        }, {
+          "title": "Environmental Kills - Most in Game",
+          "value": "2"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "44"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "8,743"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "8,014"
+        }]
+      },
+      "game": {
+        "quickplay": [{
+          "title": "Time Played",
+          "value": "330 hours"
+        }, {
+          "title": "Games Won",
+          "value": "1,319"
+        }],
+        "competitive": [{
+          "title": "Time Played",
+          "value": "4 hours"
+        }, {
+          "title": "Games Played",
+          "value": "24"
+        }, {
+          "title": "Games Won",
+          "value": "13"
+        }, {
+          "title": "Games Tied",
+          "value": "2"
+        }, {
+          "title": "Games Lost",
+          "value": "9"
+        }]
+      }
+    }
+  },
+  "profile": {
+    "username": "Merychipus",
+    "level": 538,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x02500000000002F7.png",
+    "games": {
+      "quickplay": {
+        "won": 1319
+      },
+      "competitive": {
+        "won": 13,
+        "lost": null,
+        "draw": 2,
+        "played": 24
+      }
+    },
+    "playtime": {
+      "quickplay": "330 hours",
+      "competitive": "4 hours"
+    },
+    "competitive": {
+      "rank": 2483,
+      "rank_img": "https://d1u1mce87gyfbn.cloudfront.net/game/rank-icons/season-2/rank-4.png"
+    },
+    "levelFrame": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x025000000000093A_Border.",
+    "star": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x025000000000093A_Rank."
+  }
+}, {
+  "battletag": "Maugan-21970",
+  "platform": "pc",
+  "region": "eu",
+  "modifiedOn": 1517869209140,
+  "stats": {
+    "username": "Maugan",
+    "level": 175,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x025000000000159A.png",
+    "stats": {
+      "top_heroes": {
+        "quickplay": [{
+          "hero": "McCree",
+          "played": "24 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "15 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Ana",
+          "played": "13 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Pharah",
+          "played": "9 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Tracer",
+          "played": "8 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "8 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Moira",
+          "played": "6 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }, {
+          "hero": "Zarya",
+          "played": "5 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "D.Va",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "Orisa",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Winston",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Reaper",
+          "played": "50 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Genji",
+          "played": "47 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "38 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "Sombra",
+          "played": "28 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "25 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Bastion",
+          "played": "22 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Mercy",
+          "played": "17 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "8 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "8 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Mei",
+          "played": "6 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }],
+        "competitive": [{
+          "hero": "Moira",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }, {
+          "hero": "McCree",
+          "played": "32 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Ana",
+          "played": "12 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "9 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Orisa",
+          "played": "8 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Tracer",
+          "played": "6 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Pharah",
+          "played": "6 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "5 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Reaper",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Mercy",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Winston",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Bastion",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Genji",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Zarya",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "D.Va",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Mei",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Sombra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }]
+      },
+      "combat": {
+        "quickplay": [{
+          "title": "Barrier Damage Done",
+          "value": "432,988"
+        }, {
+          "title": "Melee Final Blows",
+          "value": "88"
+        }, {
+          "title": "Deaths",
+          "value": "5,226"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "2,160,010"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "07:22:21"
+        }, {
+          "title": "Solo Kills",
+          "value": "1,589"
+        }, {
+          "title": "Objective Time",
+          "value": "07:50:25"
+        }, {
+          "title": "Objective Kills",
+          "value": "3,863"
+        }, {
+          "title": "Final Blows",
+          "value": "5,713"
+        }, {
+          "title": "Eliminations",
+          "value": "11,332"
+        }, {
+          "title": "All Damage Done",
+          "value": "4,084,951"
+        }, {
+          "title": "Environmental Kills",
+          "value": "36"
+        }, {
+          "title": "Multikills",
+          "value": "68"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done",
+          "value": "25,050"
+        }, {
+          "title": "Deaths",
+          "value": "105"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "90,448"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "18:56"
+        }, {
+          "title": "Solo Kills",
+          "value": "17"
+        }, {
+          "title": "Objective Time",
+          "value": "19:13"
+        }, {
+          "title": "Objective Kills",
+          "value": "167"
+        }, {
+          "title": "Final Blows",
+          "value": "132"
+        }, {
+          "title": "Eliminations",
+          "value": "355"
+        }, {
+          "title": "All Damage Done",
+          "value": "117,105"
+        }, {
+          "title": "Multikills",
+          "value": "2"
+        }]
+      },
+      "match_awards": {
+        "quickplay": [{
+          "title": "Cards",
+          "value": "320"
+        }, {
+          "title": "Medals",
+          "value": "2,235"
+        }, {
+          "title": "Medals - Gold",
+          "value": "907"
+        }, {
+          "title": "Medals - Silver",
+          "value": "742"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "586"
+        }],
+        "competitive": [{
+          "title": "Cards",
+          "value": "10"
+        }, {
+          "title": "Medals",
+          "value": "43"
+        }, {
+          "title": "Medals - Gold",
+          "value": "19"
+        }, {
+          "title": "Medals - Silver",
+          "value": "19"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "5"
+        }]
+      },
+      "assists": {
+        "quickplay": [{
+          "title": "Healing Done",
+          "value": "1,495,862"
+        }, {
+          "title": "Recon Assists",
+          "value": "9"
+        }, {
+          "title": "Teleporter Pads Destroyed",
+          "value": "2"
+        }, {
+          "title": "Offensive Assists",
+          "value": "1,406"
+        }, {
+          "title": "Defensive Assists",
+          "value": "2,426"
+        }],
+        "competitive": [{
+          "title": "Healing Done",
+          "value": "110,006"
+        }, {
+          "title": "Offensive Assists",
+          "value": "30"
+        }, {
+          "title": "Defensive Assists",
+          "value": "190"
+        }]
+      },
+      "average": {
+        "quickplay": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "1"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "8"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "4"
+        }, {
+          "title": "Final {count, plural, one {Blow} other {Blows}} - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "11"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "3"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "9"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "11"
+        }, {
+          "title": "Final {count, plural, one {Blow} other {Blows}} - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "12"
+        }]
+      },
+      "miscellaneous": {
+        "quickplay": [{
+          "title": "Shield Generators Destroyed",
+          "value": "6"
+        }, {
+          "title": "Turrets Destroyed",
+          "value": "407"
+        }],
+        "competitive": [{
+          "title": "Turrets Destroyed",
+          "value": "4"
+        }]
+      },
+      "best": {
+        "quickplay": [{
+          "title": "Eliminations - Most in Game",
+          "value": "44"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "24"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "18,787"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "14,947"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "36"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "31"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "28"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "04:03"
+        }, {
+          "title": "Multikill - Best",
+          "value": "5"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "24"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "06:30"
+        }, {
+          "title": "Melee Final Blows - Most in Game",
+          "value": "3"
+        }, {
+          "title": "Shield Generators Destroyed - Most in Game",
+          "value": "2"
+        }, {
+          "title": "Turrets Destroyed - Most in Game",
+          "value": "12"
+        }, {
+          "title": "Environmental Kills - Most in Game",
+          "value": "5"
+        }, {
+          "title": "Teleporter Pads Destroyed - Most in Game",
+          "value": "2"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "44"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "12,388"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "6,109"
+        }, {
+          "title": "Recon Assists - Most in Game",
+          "value": "8"
+        }],
+        "competitive": [{
+          "title": "Eliminations - Most in Game",
+          "value": "38"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "26"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "19,459"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "20,198"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "47"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "11"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "25"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "03:01"
+        }, {
+          "title": "Multikill - Best",
+          "value": "4"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "26"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "07:49"
+        }, {
+          "title": "Turrets Destroyed - Most in Game",
+          "value": "4"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "38"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "15,033"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "6,220"
+        }]
+      },
+      "game": {
+        "quickplay": [{
+          "title": "Time Played",
+          "value": "107 hours"
+        }, {
+          "title": "Games Won",
+          "value": "439"
+        }],
+        "competitive": [{
+          "title": "Time Played",
+          "value": "2 hours"
+        }, {
+          "title": "Games Played",
+          "value": "14"
+        }, {
+          "title": "Games Won",
+          "value": "9"
+        }, {
+          "title": "{count, plural, one {Game} other {Games}} Lost",
+          "value": "5"
+        }]
+      }
+    }
+  },
+  "profile": {
+    "username": "Maugan",
+    "level": 175,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x025000000000159A.png",
+    "games": {
+      "quickplay": {
+        "won": 439
+      },
+      "competitive": {
+        "won": 9,
+        "lost": 5,
+        "draw": 0,
+        "played": 14
+      }
+    },
+    "playtime": {
+      "quickplay": "107 hours",
+      "competitive": "2 hours"
+    },
+    "competitive": {
+      "rank": 2645,
+      "rank_img": "https://d1u1mce87gyfbn.cloudfront.net/game/rank-icons/season-2/rank-4.png"
+    },
+    "levelFrame": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x0250000000000929_Border.",
+    "star": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x0250000000000929_Rank."
+  }
+}, {
+  "battletag": "Whaly-2275",
+  "platform": "pc",
+  "region": "eu",
+  "modifiedOn": 1517869226842,
+  "stats": {
+    "username": "Whaly",
+    "level": 291,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x02500000000015A1.png",
+    "stats": {
+      "top_heroes": {
+        "quickplay": [{
+          "hero": "Torbjörn",
+          "played": "26 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Pharah",
+          "played": "16 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "16 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Winston",
+          "played": "15 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "15 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Mei",
+          "played": "10 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "9 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "6 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Genji",
+          "played": "6 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "5 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "Tracer",
+          "played": "5 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "5 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Ana",
+          "played": "4 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Zarya",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Reaper",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "McCree",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Bastion",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Orisa",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "D.Va",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Mercy",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Sombra",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "41 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "27 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Moira",
+          "played": "20 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }],
+        "competitive": [{
+          "hero": "Winston",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "29 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Pharah",
+          "played": "27 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "16 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "9 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "7 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Bastion",
+          "played": "2 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Tracer",
+          "played": "1 minute",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Reaper",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Mercy",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Genji",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "McCree",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Zarya",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "D.Va",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Mei",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Sombra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }, {
+          "hero": "Ana",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Orisa",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Moira",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }]
+      },
+      "combat": {
+        "quickplay": [{
+          "title": "Barrier Damage Done",
+          "value": "456,552"
+        }, {
+          "title": "Melee Final Blows",
+          "value": "16"
+        }, {
+          "title": "Deaths",
+          "value": "9,300"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "1,420,273"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "13:11:30"
+        }, {
+          "title": "Solo Kills",
+          "value": "2,595"
+        }, {
+          "title": "Objective Time",
+          "value": "14:23:58"
+        }, {
+          "title": "Objective Kills",
+          "value": "6,371"
+        }, {
+          "title": "Final Blows",
+          "value": "8,395"
+        }, {
+          "title": "Eliminations",
+          "value": "16,746"
+        }, {
+          "title": "All Damage Done",
+          "value": "6,577,684"
+        }, {
+          "title": "Environmental Kills",
+          "value": "60"
+        }, {
+          "title": "Multikills",
+          "value": "109"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done",
+          "value": "39,396"
+        }, {
+          "title": "Deaths",
+          "value": "160"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "110,800"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "11:13"
+        }, {
+          "title": "Solo Kills",
+          "value": "22"
+        }, {
+          "title": "Objective Time",
+          "value": "25:00"
+        }, {
+          "title": "Objective Kills",
+          "value": "143"
+        }, {
+          "title": "Final Blows",
+          "value": "140"
+        }, {
+          "title": "Eliminations",
+          "value": "308"
+        }, {
+          "title": "All Damage Done",
+          "value": "153,148"
+        }, {
+          "title": "Multikill",
+          "value": "1"
+        }, {
+          "title": "Environmental Kill",
+          "value": "1"
+        }]
+      },
+      "match_awards": {
+        "quickplay": [{
+          "title": "Cards",
+          "value": "408"
+        }, {
+          "title": "Medals",
+          "value": "3,676"
+        }, {
+          "title": "Medals - Gold",
+          "value": "1,327"
+        }, {
+          "title": "Medals - Silver",
+          "value": "1,268"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "1,081"
+        }],
+        "competitive": [{
+          "title": "Cards",
+          "value": "4"
+        }, {
+          "title": "Medals",
+          "value": "44"
+        }, {
+          "title": "Medals - Gold",
+          "value": "17"
+        }, {
+          "title": "Medals - Silver",
+          "value": "11"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "16"
+        }]
+      },
+      "assists": {
+        "quickplay": [{
+          "title": "Healing Done",
+          "value": "982,225"
+        }, {
+          "title": "Recon Assists",
+          "value": "15"
+        }, {
+          "title": "Teleporter Pads Destroyed",
+          "value": "13"
+        }, {
+          "title": "Offensive Assists",
+          "value": "623"
+        }, {
+          "title": "Defensive Assists",
+          "value": "934"
+        }],
+        "competitive": [{
+          "title": "Healing Done",
+          "value": "4,850"
+        }, {
+          "title": "Defensive Assists",
+          "value": "7"
+        }]
+      },
+      "average": {
+        "quickplay": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "1"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "9"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "2"
+        }, {
+          "title": "Final {count, plural, one {Blow} other {Blows}} - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "11"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "4"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "11"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Final {count, plural, one {Blow} other {Blows}} - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "15"
+        }]
+      },
+      "miscellaneous": {
+        "quickplay": [{
+          "title": "Shield Generators Destroyed",
+          "value": "5"
+        }, {
+          "title": "Turrets Destroyed",
+          "value": "1,061"
+        }],
+        "competitive": [{
+          "title": "Turrets Destroyed",
+          "value": "17"
+        }]
+      },
+      "best": {
+        "quickplay": [{
+          "title": "Eliminations - Most in Game",
+          "value": "45"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "30"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "19,946"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "9,667"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "22"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "22"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "24"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "04:41"
+        }, {
+          "title": "Multikill - Best",
+          "value": "5"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "30"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "07:27"
+        }, {
+          "title": "Melee Final Blows - Most in Game",
+          "value": "4"
+        }, {
+          "title": "Shield Generator Destroyed - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Turrets Destroyed - Most in Game",
+          "value": "18"
+        }, {
+          "title": "Environmental Kills - Most in Game",
+          "value": "4"
+        }, {
+          "title": "Teleporter Pad Destroyed - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "45"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "11,837"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "9,232"
+        }, {
+          "title": "Recon Assists - Most in Game",
+          "value": "12"
+        }],
+        "competitive": [{
+          "title": "Eliminations - Most in Game",
+          "value": "39"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "18"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "15,101"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "1,776"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "3"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "22"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "04:25"
+        }, {
+          "title": "Multikill - Best",
+          "value": "3"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "18"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "03:16"
+        }, {
+          "title": "Turrets Destroyed - Most in Game",
+          "value": "9"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "39"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "12,069"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "9,451"
+        }, {
+          "title": "Environmental Kill - Most in Game",
+          "value": "1"
+        }]
+      },
+      "game": {
+        "quickplay": [{
+          "title": "Time Played",
+          "value": "168 hours"
+        }, {
+          "title": "Games Won",
+          "value": "657"
+        }],
+        "competitive": [{
+          "title": "Time Played",
+          "value": "2 hours"
+        }, {
+          "title": "Games Played",
+          "value": "15"
+        }, {
+          "title": "Games Won",
+          "value": "6"
+        }, {
+          "title": "Games Tied",
+          "value": "1"
+        }, {
+          "title": "{count, plural, one {Game} other {Games}} Lost",
+          "value": "8"
+        }]
+      }
+    }
+  },
+  "profile": {
+    "username": "Whaly",
+    "level": 291,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x02500000000015A1.png",
+    "games": {
+      "quickplay": {
+        "won": 657
+      },
+      "competitive": {
+        "won": 6,
+        "lost": 8,
+        "draw": 1,
+        "played": 15
+      }
+    },
+    "playtime": {
+      "quickplay": "168 hours",
+      "competitive": "2 hours"
+    },
+    "competitive": {
+      "rank": 2084,
+      "rank_img": "https://d1u1mce87gyfbn.cloudfront.net/game/rank-icons/season-2/rank-3.png"
+    },
+    "levelFrame": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x0250000000000951_Border.",
+    "star": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x0250000000000951_Rank."
+  }
+}, {
+  "battletag": "Akavashirie-2448",
+  "platform": "pc",
+  "region": "eu",
+  "modifiedOn": 1517869257228,
+  "stats": {
+    "username": "Akavashirie",
+    "level": 380,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x02500000000015A0.png",
+    "stats": {
+      "top_heroes": {
+        "quickplay": [{
+          "hero": "Genji",
+          "played": "19 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Mei",
+          "played": "16 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Reaper",
+          "played": "14 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Tracer",
+          "played": "13 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Zarya",
+          "played": "10 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Pharah",
+          "played": "9 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "9 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "D.Va",
+          "played": "7 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "6 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Bastion",
+          "played": "6 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "6 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "6 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "5 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "4 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "Winston",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Sombra",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Orisa",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Ana",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Mercy",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "McCree",
+          "played": "58 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Moira",
+          "played": "21 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }],
+        "competitive": [{
+          "hero": "Zarya",
+          "played": "57 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Reaper",
+          "played": "46 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "36 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Pharah",
+          "played": "17 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Winston",
+          "played": "9 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Orisa",
+          "played": "3 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Tracer",
+          "played": "2 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "1 minute",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Mei",
+          "played": "40 seconds",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Mercy",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Bastion",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Genji",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "McCree",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "D.Va",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Sombra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }, {
+          "hero": "Ana",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Moira",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }]
+      },
+      "combat": {
+        "quickplay": [{
+          "title": "Barrier Damage Done",
+          "value": "185,691"
+        }, {
+          "title": "Melee Final Blows",
+          "value": "353"
+        }, {
+          "title": "Deaths",
+          "value": "9,301"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "835,560"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "13:29:39"
+        }, {
+          "title": "Solo Kills",
+          "value": "3,462"
+        }, {
+          "title": "Objective Time",
+          "value": "13:06:44"
+        }, {
+          "title": "Objective Kills",
+          "value": "5,763"
+        }, {
+          "title": "Final Blows",
+          "value": "9,661"
+        }, {
+          "title": "Eliminations",
+          "value": "16,822"
+        }, {
+          "title": "All Damage Done",
+          "value": "5,993,444"
+        }, {
+          "title": "Environmental Kills",
+          "value": "90"
+        }, {
+          "title": "Multikills",
+          "value": "167"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done",
+          "value": "49,959"
+        }, {
+          "title": "Melee Final Blows",
+          "value": "4"
+        }, {
+          "title": "Deaths",
+          "value": "147"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "127,824"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "18:19"
+        }, {
+          "title": "Solo Kills",
+          "value": "18"
+        }, {
+          "title": "Objective Time",
+          "value": "26:16"
+        }, {
+          "title": "Objective Kills",
+          "value": "160"
+        }, {
+          "title": "Final Blows",
+          "value": "142"
+        }, {
+          "title": "Eliminations",
+          "value": "315"
+        }, {
+          "title": "All Damage Done",
+          "value": "181,099"
+        }, {
+          "title": "Multikills",
+          "value": "7"
+        }]
+      },
+      "match_awards": {
+        "quickplay": [{
+          "title": "Cards",
+          "value": "318"
+        }, {
+          "title": "Medals",
+          "value": "3,326"
+        }, {
+          "title": "Medals - Gold",
+          "value": "1,079"
+        }, {
+          "title": "Medals - Silver",
+          "value": "1,135"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "1,112"
+        }],
+        "competitive": [{
+          "title": "Cards",
+          "value": "2"
+        }, {
+          "title": "Medals",
+          "value": "43"
+        }, {
+          "title": "Medals - Gold",
+          "value": "13"
+        }, {
+          "title": "Medals - Silver",
+          "value": "13"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "17"
+        }]
+      },
+      "assists": {
+        "quickplay": [{
+          "title": "Healing Done",
+          "value": "556,466"
+        }, {
+          "title": "Recon Assists",
+          "value": "30"
+        }, {
+          "title": "Teleporter Pads Destroyed",
+          "value": "46"
+        }, {
+          "title": "Offensive Assists",
+          "value": "752"
+        }, {
+          "title": "Defensive Assists",
+          "value": "598"
+        }],
+        "competitive": [{
+          "title": "Healing Done",
+          "value": "4,424"
+        }, {
+          "title": "Offensive Assists",
+          "value": "41"
+        }, {
+          "title": "Defensive Assists",
+          "value": "25"
+        }]
+      },
+      "average": {
+        "quickplay": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "8"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "1"
+        }, {
+          "title": "Final Blows - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "10"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "5"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "12"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Final Blows - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "17"
+        }]
+      },
+      "miscellaneous": {
+        "quickplay": [{
+          "title": "Shield Generators Destroyed",
+          "value": "2"
+        }, {
+          "title": "Turrets Destroyed",
+          "value": "1,165"
+        }],
+        "competitive": []
+      },
+      "best": {
+        "quickplay": [{
+          "title": "Eliminations - Most in Game",
+          "value": "41"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "31"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "19,068"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "9,506"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "21"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "18"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "26"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "04:11"
+        }, {
+          "title": "Multikill - Best",
+          "value": "5"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "31"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "09:35"
+        }, {
+          "title": "Melee Final Blows - Most in Game",
+          "value": "5"
+        }, {
+          "title": "Shield Generator Destroyed - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Turrets Destroyed - Most in Game",
+          "value": "18"
+        }, {
+          "title": "Environmental Kills - Most in Game",
+          "value": "4"
+        }, {
+          "title": "Teleporter Pad Destroyed - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "36"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "11,791"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "8,532"
+        }, {
+          "title": "Recon Assists - Most in Game",
+          "value": "22"
+        }],
+        "competitive": [{
+          "title": "Eliminations - Most in Game",
+          "value": "36"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "19"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "23,599"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "1,384"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "5"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "9"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "18"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "04:13"
+        }, {
+          "title": "Multikill - Best",
+          "value": "4"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "19"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "03:00"
+        }, {
+          "title": "Melee Final Blows - Most in Game",
+          "value": "2"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "36"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "15,864"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "11,323"
+        }]
+      },
+      "game": {
+        "quickplay": [{
+          "title": "Time Played",
+          "value": "163 hours"
+        }, {
+          "title": "Games Won",
+          "value": "668"
+        }],
+        "competitive": [{
+          "title": "Time Played",
+          "value": "2 hours"
+        }, {
+          "title": "Games Played",
+          "value": "14"
+        }, {
+          "title": "Games Won",
+          "value": "8"
+        }, {
+          "title": "Games Tied",
+          "value": "1"
+        }, {
+          "title": "Games Lost",
+          "value": "5"
+        }]
+      }
+    }
+  },
+  "profile": {
+    "username": "Akavashirie",
+    "level": 380,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x02500000000015A0.png",
+    "games": {
+      "quickplay": {
+        "won": 668
+      },
+      "competitive": {
+        "won": 8,
+        "lost": null,
+        "draw": 1,
+        "played": 14
+      }
+    },
+    "playtime": {
+      "quickplay": "163 hours",
+      "competitive": "2 hours"
+    },
+    "competitive": {
+      "rank": 2406,
+      "rank_img": "https://d1u1mce87gyfbn.cloudfront.net/game/rank-icons/season-2/rank-3.png"
+    },
+    "levelFrame": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x0250000000000949_Border.",
+    "star": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x0250000000000949_Rank."
+  }
+}, {
+  "battletag": "Bouzouk-2523",
+  "platform": "pc",
+  "region": "eu",
+  "modifiedOn": 1517869276213,
+  "stats": {
+    "username": "Bouzouk",
+    "level": 120,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x0250000000000845.png",
+    "stats": {
+      "top_heroes": {
+        "quickplay": [{
+          "hero": "Junkrat",
+          "played": "27 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Tracer",
+          "played": "8 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "4 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Pharah",
+          "played": "4 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "Genji",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Bastion",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Zarya",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Mei",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Ana",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "McCree",
+          "played": "39 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Reaper",
+          "played": "39 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "D.Va",
+          "played": "33 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "26 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "25 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Orisa",
+          "played": "16 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Winston",
+          "played": "8 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "5 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Sombra",
+          "played": "5 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "5 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }, {
+          "hero": "Mercy",
+          "played": "1 minute",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Moira",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }],
+        "competitive": [{
+          "hero": "Soldier: 76",
+          "played": "17 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "3 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Reaper",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Tracer",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Mercy",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Pharah",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Winston",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Bastion",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Genji",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "McCree",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Zarya",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "D.Va",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Mei",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Sombra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }, {
+          "hero": "Ana",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Orisa",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Moira",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }]
+      },
+      "combat": {
+        "quickplay": [{
+          "title": "Barrier Damage Done",
+          "value": "131,438"
+        }, {
+          "title": "Melee Final Blows",
+          "value": "2"
+        }, {
+          "title": "Deaths",
+          "value": "3,757"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "174,947"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "02:24:25"
+        }, {
+          "title": "Solo Kills",
+          "value": "1,104"
+        }, {
+          "title": "Objective Time",
+          "value": "04:23:37"
+        }, {
+          "title": "Objective Kills",
+          "value": "2,151"
+        }, {
+          "title": "Final Blows",
+          "value": "3,171"
+        }, {
+          "title": "Eliminations",
+          "value": "5,879"
+        }, {
+          "title": "All Damage Done",
+          "value": "3,038,707"
+        }, {
+          "title": "Environmental Kills",
+          "value": "16"
+        }, {
+          "title": "Multikills",
+          "value": "40"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done",
+          "value": "8,419"
+        }, {
+          "title": "Deaths",
+          "value": "16"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "14,466"
+        }, {
+          "title": "Solo Kill",
+          "value": "1"
+        }, {
+          "title": "Objective Time",
+          "value": "02:13"
+        }, {
+          "title": "Objective Kills",
+          "value": "12"
+        }, {
+          "title": "Final Blows",
+          "value": "11"
+        }, {
+          "title": "Eliminations",
+          "value": "33"
+        }, {
+          "title": "All Damage Done",
+          "value": "22,956"
+        }]
+      },
+      "match_awards": {
+        "quickplay": [{
+          "title": "Cards",
+          "value": "78"
+        }, {
+          "title": "Medals",
+          "value": "1,207"
+        }, {
+          "title": "Medals - Gold",
+          "value": "358"
+        }, {
+          "title": "Medals - Silver",
+          "value": "409"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "440"
+        }],
+        "competitive": [{
+          "title": "Medals",
+          "value": "3"
+        }, {
+          "title": "Medals - Silver",
+          "value": "1"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "2"
+        }]
+      },
+      "assists": {
+        "quickplay": [{
+          "title": "Healing Done",
+          "value": "260,867"
+        }, {
+          "title": "Recon Assists",
+          "value": "19"
+        }, {
+          "title": "Teleporter Pads Destroyed",
+          "value": "10"
+        }, {
+          "title": "Offensive Assists",
+          "value": "92"
+        }, {
+          "title": "Defensive Assists",
+          "value": "221"
+        }],
+        "competitive": [{
+          "title": "Healing Done",
+          "value": "1,304"
+        }, {
+          "title": "Defensive Assist",
+          "value": "1"
+        }]
+      },
+      "average": {
+        "quickplay": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "6"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "1"
+        }, {
+          "title": "Final {count, plural, one {Blow} other {Blows}} - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "11"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "7"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "11"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "1"
+        }, {
+          "title": "Final {count, plural, one {Blow} other {Blows}} - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "18"
+        }]
+      },
+      "miscellaneous": {
+        "quickplay": [{
+          "title": "Shield Generators Destroyed",
+          "value": "2"
+        }, {
+          "title": "Turrets Destroyed",
+          "value": "292"
+        }],
+        "competitive": []
+      },
+      "best": {
+        "quickplay": [{
+          "title": "Eliminations - Most in Game",
+          "value": "32"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "21"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "23,805"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "11,282"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "21"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "6"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "20"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "04:01"
+        }, {
+          "title": "Multikill - Best",
+          "value": "5"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "21"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "06:29"
+        }, {
+          "title": "Melee Final Blow - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Shield Generator Destroyed - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Turrets Destroyed - Most in Game",
+          "value": "13"
+        }, {
+          "title": "Environmental Kills - Most in Game",
+          "value": "2"
+        }, {
+          "title": "Teleporter Pad Destroyed - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "32"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "8,447"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "17,170"
+        }, {
+          "title": "Recon Assists - Most in Game",
+          "value": "13"
+        }],
+        "competitive": [{
+          "title": "Eliminations - Most in Game",
+          "value": "33"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "11"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "22,956"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "1,304"
+        }, {
+          "title": "Defensive Assist - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "12"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "02:13"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "11"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "33"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "14,466"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "8,419"
+        }]
+      },
+      "game": {
+        "quickplay": [{
+          "title": "Time Played",
+          "value": "74 hours"
+        }, {
+          "title": "Games Won",
+          "value": "279"
+        }],
+        "competitive": [{
+          "title": "Time Played",
+          "value": "21 minutes"
+        }, {
+          "title": "Games Played",
+          "value": "1"
+        }, {
+          "title": "{count, plural, one {Game} other {Games}} Lost",
+          "value": "1"
+        }]
+      }
+    }
+  },
+  "profile": {
+    "username": "Bouzouk",
+    "level": 120,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x0250000000000845.png",
+    "games": {
+      "quickplay": {
+        "won": 279
+      },
+      "competitive": {
+        "won": null,
+        "lost": 1,
+        "draw": 0,
+        "played": 1
+      }
+    },
+    "playtime": {
+      "quickplay": "74 hours",
+      "competitive": "21 minutes"
+    },
+    "competitive": {
+      "rank": null,
+      "rank_img": null
+    },
+    "levelFrame": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x025000000000092B_Border.",
+    "star": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x025000000000092B_Rank."
+  }
+}, {
+  "battletag": "Coquette-2125",
+  "platform": "pc",
+  "region": "eu",
+  "modifiedOn": 1517869309233,
+  "stats": {
+    "username": "Coquette",
+    "level": 467,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x0250000000000305.png",
+    "stats": {
+      "top_heroes": {
+        "quickplay": [{
+          "hero": "Mercy",
+          "played": "230 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "114 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "D.Va",
+          "played": "21 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "7 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "4 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "4 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Orisa",
+          "played": "4 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Mei",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "3 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Reaper",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Tracer",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Pharah",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Winston",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Zarya",
+          "played": "1 hour",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Moira",
+          "played": "58 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }, {
+          "hero": "McCree",
+          "played": "39 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Genji",
+          "played": "33 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Ana",
+          "played": "27 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Bastion",
+          "played": "27 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "26 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "15 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "14 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Sombra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }],
+        "competitive": [{
+          "hero": "Mercy",
+          "played": "2 hours",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+        }, {
+          "hero": "Orisa",
+          "played": "19 minutes",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+        }, {
+          "hero": "Reaper",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+        }, {
+          "hero": "Tracer",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+        }, {
+          "hero": "Hanzo",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+        }, {
+          "hero": "Torbjörn",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+        }, {
+          "hero": "Reinhardt",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+        }, {
+          "hero": "Pharah",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+        }, {
+          "hero": "Winston",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+        }, {
+          "hero": "Widowmaker",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+        }, {
+          "hero": "Bastion",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+        }, {
+          "hero": "Symmetra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+        }, {
+          "hero": "Zenyatta",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+        }, {
+          "hero": "Genji",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+        }, {
+          "hero": "Roadhog",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+        }, {
+          "hero": "McCree",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+        }, {
+          "hero": "Junkrat",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+        }, {
+          "hero": "Zarya",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+        }, {
+          "hero": "Soldier: 76",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+        }, {
+          "hero": "Lúcio",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+        }, {
+          "hero": "D.Va",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+        }, {
+          "hero": "Mei",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+        }, {
+          "hero": "Sombra",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+        }, {
+          "hero": "Doomfist",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+        }, {
+          "hero": "Ana",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+        }, {
+          "hero": "Moira",
+          "played": "--",
+          "img": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+        }]
+      },
+      "combat": {
+        "quickplay": [{
+          "title": "Barrier Damage Done",
+          "value": "278,262"
+        }, {
+          "title": "Melee Final Blows",
+          "value": "6"
+        }, {
+          "title": "Deaths",
+          "value": "19,231"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "943,005"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "23:46:59"
+        }, {
+          "title": "Solo Kills",
+          "value": "4,870"
+        }, {
+          "title": "Objective Time",
+          "value": "20:37:24"
+        }, {
+          "title": "Objective Kills",
+          "value": "6,844"
+        }, {
+          "title": "Final Blows",
+          "value": "12,251"
+        }, {
+          "title": "Eliminations",
+          "value": "22,441"
+        }, {
+          "title": "All Damage Done",
+          "value": "9,359,700"
+        }, {
+          "title": "Environmental Kills",
+          "value": "113"
+        }, {
+          "title": "Multikills",
+          "value": "123"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done",
+          "value": "8,881"
+        }, {
+          "title": "Deaths",
+          "value": "141"
+        }, {
+          "title": "Hero Damage Done",
+          "value": "17,182"
+        }, {
+          "title": "Time Spent on Fire",
+          "value": "09:21"
+        }, {
+          "title": "Solo Kills",
+          "value": "2"
+        }, {
+          "title": "Objective Time",
+          "value": "16:37"
+        }, {
+          "title": "Objective Kills",
+          "value": "30"
+        }, {
+          "title": "Final Blows",
+          "value": "13"
+        }, {
+          "title": "Eliminations",
+          "value": "51"
+        }, {
+          "title": "All Damage Done",
+          "value": "26,164"
+        }, {
+          "title": "Multikill",
+          "value": "1"
+        }]
+      },
+      "match_awards": {
+        "quickplay": [{
+          "title": "Cards",
+          "value": "1,382"
+        }, {
+          "title": "Medals",
+          "value": "5,530"
+        }, {
+          "title": "Medals - Gold",
+          "value": "2,795"
+        }, {
+          "title": "Medals - Silver",
+          "value": "1,384"
+        }, {
+          "title": "Medals - Bronze",
+          "value": "1,351"
+        }],
+        "competitive": [{
+          "title": "Cards",
+          "value": "10"
+        }, {
+          "title": "Medals",
+          "value": "17"
+        }, {
+          "title": "Medals - Gold",
+          "value": "13"
+        }, {
+          "title": "Medals - Silver",
+          "value": "4"
+        }]
+      },
+      "assists": {
+        "quickplay": [{
+          "title": "Healing Done",
+          "value": "10,762,164"
+        }, {
+          "title": "Recon Assists",
+          "value": "9"
+        }, {
+          "title": "Teleporter Pads Destroyed",
+          "value": "38"
+        }, {
+          "title": "Offensive Assists",
+          "value": "5,078"
+        }, {
+          "title": "Defensive Assists",
+          "value": "18,186"
+        }],
+        "competitive": [{
+          "title": "Healing Done",
+          "value": "154,680"
+        }, {
+          "title": "Offensive Assists",
+          "value": "107"
+        }, {
+          "title": "Defensive Assists",
+          "value": "386"
+        }]
+      },
+      "average": {
+        "quickplay": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "4"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "7"
+        }, {
+          "title": "Final {count, plural, one {Blow} other {Blows}} - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "6"
+        }],
+        "competitive": [{
+          "title": "Barrier Damage Done - Avg per 10 Min",
+          "value": "1"
+        }, {
+          "title": "Deaths - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Hero Damage Done - Avg per 10 Min",
+          "value": "2"
+        }, {
+          "title": "Time Spent on Fire - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Solo Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Time - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Objective Kills - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Healing Done - Avg per 10 Min",
+          "value": "14"
+        }, {
+          "title": "Final {count, plural, one {Blow} other {Blows}} - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "Eliminations - Avg per 10 Min",
+          "value": "0"
+        }, {
+          "title": "All Damage Done - Avg per 10 Min",
+          "value": "2"
+        }]
+      },
+      "miscellaneous": {
+        "quickplay": [{
+          "title": "Turrets Destroyed",
+          "value": "1,519"
+        }],
+        "competitive": [{
+          "title": "Turret Destroyed",
+          "value": "1"
+        }]
+      },
+      "best": {
+        "quickplay": [{
+          "title": "Eliminations - Most in Game",
+          "value": "39"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "27"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "20,458"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "20,897"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "46"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "23"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "26"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "03:32"
+        }, {
+          "title": "Multikill - Best",
+          "value": "4"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "27"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "14:10"
+        }, {
+          "title": "Melee Final Blows - Most in Game",
+          "value": "2"
+        }, {
+          "title": "Turrets Destroyed - Most in Game",
+          "value": "8"
+        }, {
+          "title": "Environmental Kills - Most in Game",
+          "value": "2"
+        }, {
+          "title": "Teleporter Pad Destroyed - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "39"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "12,102"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "9,328"
+        }, {
+          "title": "Recon Assists - Most in Game",
+          "value": "6"
+        }],
+        "competitive": [{
+          "title": "Eliminations - Most in Game",
+          "value": "43"
+        }, {
+          "title": "Final Blows - Most in Game",
+          "value": "11"
+        }, {
+          "title": "All Damage Done - Most in Game",
+          "value": "22,909"
+        }, {
+          "title": "Healing Done - Most in Game",
+          "value": "22,771"
+        }, {
+          "title": "Defensive Assists - Most in Game",
+          "value": "50"
+        }, {
+          "title": "Offensive Assists - Most in Game",
+          "value": "17"
+        }, {
+          "title": "Objective Kills - Most in Game",
+          "value": "27"
+        }, {
+          "title": "Objective Time - Most in Game",
+          "value": "03:17"
+        }, {
+          "title": "Multikill - Best",
+          "value": "3"
+        }, {
+          "title": "Solo Kills - Most in Game",
+          "value": "11"
+        }, {
+          "title": "Time Spent on Fire - Most in Game",
+          "value": "03:35"
+        }, {
+          "title": "Turret Destroyed - Most in Game",
+          "value": "1"
+        }, {
+          "title": "Kill Streak - Best",
+          "value": "43"
+        }, {
+          "title": "Hero Damage Done - Most in Game",
+          "value": "14,467"
+        }, {
+          "title": "Barrier Damage Done - Most in Game",
+          "value": "8,441"
+        }]
+      },
+      "game": {
+        "quickplay": [{
+          "title": "Time Played",
+          "value": "412 hours"
+        }, {
+          "title": "Games Won",
+          "value": "1,629"
+        }],
+        "competitive": [{
+          "title": "Time Played",
+          "value": "3 hours"
+        }, {
+          "title": "Games Played",
+          "value": "14"
+        }, {
+          "title": "Games Won",
+          "value": "8"
+        }, {
+          "title": "Games Tied",
+          "value": "1"
+        }, {
+          "title": "{count, plural, one {Game} other {Games}} Lost",
+          "value": "5"
+        }]
+      }
+    }
+  },
+  "profile": {
+    "username": "Coquette",
+    "level": 467,
+    "portrait": "https://d1u1mce87gyfbn.cloudfront.net/game/unlocks/0x0250000000000305.png",
+    "games": {
+      "quickplay": {
+        "won": 1629
+      },
+      "competitive": {
+        "won": 8,
+        "lost": null,
+        "draw": 1,
+        "played": 14
+      }
+    },
+    "playtime": {
+      "quickplay": "412 hours",
+      "competitive": "3 hours"
+    },
+    "competitive": {
+      "rank": null,
+      "rank_img": null
+    },
+    "levelFrame": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x0250000000000946_Border.",
+    "star": "https://d1u1mce87gyfbn.cloudfront.net/game/playerlevelrewards/0x0250000000000946_Rank."
+  }
+}]
