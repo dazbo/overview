@@ -1,6 +1,6 @@
-# overvue
+# OverView
 
-> A Vue.js project
+> A Vue.js project to track OverWatch friends rank.
 
 ## Build Setup
 
