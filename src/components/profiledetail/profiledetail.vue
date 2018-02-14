@@ -31,7 +31,8 @@
                         </li>
                         <li class="list-group-item d-flex justify-content-between align-items-center">
                             <b>Défaites</b>
-                            <span>{{profile.games.competitive.lost||0}}</span>
+                            <!-- <span>{{profile.games.competitive.lost|| (profile.games.competitive | fixedLostGame) || 0}}</span> -->
+                            <span>{{ profile.games.competitive | fixedLostGame }}</span>
                         </li>
                         <li class="list-group-item d-flex justify-content-between align-items-center">
                             <b>Nul</b>
@@ -104,7 +105,7 @@
                             <span>{{profile.games.quickplay.won||0}}</span>
                         </li>
 
-                         <li class="list-group-item ">
+                        <li class="list-group-item ">
                             <div class="progress">
                                 <div class="progress-bar bg-success" :style="{width: type.quickplay.Offensifpercent + '%'}" :title="'Offensif (' + type.quickplay.Offensifpercent + ')'">
                                     Offensif
@@ -275,6 +276,10 @@ export default {
   filters: {
     timeTranslate(t) {
       return (t || "").replace(/ hours?$/, " h").replace(/ minutes?$/, " min");
+    },
+    fixedLostGame(game) {
+      const { won = 0, lost = 0, draw = 0, played = 0 } = game;
+      return played - won - draw;
     }
   }
 };
