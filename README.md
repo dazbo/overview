@@ -1,5 +1,7 @@
 # OverView
 
+![OverView](https://raw.githubusercontent.com/dazbo/overview/master/static/img/icons/android-chrome-192x192.png)
+
 > A Vue.js project to track OverWatch friends rank.
 
 ## Build Setup
