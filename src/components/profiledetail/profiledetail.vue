@@ -242,7 +242,7 @@ export default {
       if (data) {
         this.profile = data.profile;
         this.stats = data.stats;
-        this.portrait = data.portrait || "";
+        this.portrait = data.profile.portrait || "";
         this.rankImage =
           this.profile.competitive.rank_img ||
           "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
