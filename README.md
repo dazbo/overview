@@ -18,6 +18,13 @@
 <img src="https://raw.githubusercontent.com/dazbo/overview/master/docs/imgs/overview_desktop_admin.png" width="640px" />
 
 
+## Dependencies and tech used
+- [VueJS](https://vuejs.org/)
+- [Bootstrap 4](http://getbootstrap.com/)
+- [Overwatch API](https://github.com/alfg/overwatch-api/)
+- [Axios](https://github.com/axios/axios/)
+
+
 ## Todo
 
 - [ ] Translation (only french for now)
