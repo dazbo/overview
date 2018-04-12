@@ -4,6 +4,28 @@
 
 > A Vue.js project to track OverWatch friends rank.
 
+## Overview
+**Desktop**
+
+<img src="https://raw.githubusercontent.com/dazbo/overview/master/docs/imgs/overview_desktop_home.png" width="640px" />
+
+**Mobile**
+
+<img src="https://raw.githubusercontent.com/dazbo/overview/master/docs/imgs/overview_mobile_home.png" width="250px" />
+
+**Administration**
+
+<img src="https://raw.githubusercontent.com/dazbo/overview/master/docs/imgs/overview_desktop_admin.png" width="640px" />
+
+
+## Todo
+
+- [ ] Translation (only french for now)
+- [ ] Find a way to retrieve Battle.Net friends from Blizzard for easy setup
+- [ ] Use Bootstrap as a dependency rather than CDN? or at least extract used part only
+
+
+
 ## Build Setup
 
 ``` bash
